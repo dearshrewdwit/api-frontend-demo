@@ -30,7 +30,7 @@ Investigate how the two apps work together - aim to create a diagram of the flow
 2. Replace hard-coded data in your api with data stored in a DB. Use [active-record](http://recipes.sinatrarb.com/p/databases/postgresql-activerecord?#article) to help manage the connections.
   - Redeploy your api to Heroku
 3. Implement simple CRUD functionality (update functionality involves making some choices)
-4. [Test your](http://recipes.sinatrarb.com/p/testing/rspec?#article)
+4. [Test](http://recipes.sinatrarb.com/p/testing/rspec?#article) your apps using common test frameworks
 
 ## Resources
 
