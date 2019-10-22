@@ -5,7 +5,7 @@ window.addEventListener('load', function() {
   // Parse the data
   // create some HTML for the browser to render
 
-  $.get("http://localhost:9292/api/messages", function(messageData) {
+  $.get("https://makers-test-api.herokuapp.com/api/messages", function(messageData) {
 
     let parsedData = JSON.parse(messageData)
 
