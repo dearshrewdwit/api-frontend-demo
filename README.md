@@ -35,3 +35,9 @@ Investigate how the two apps work together - aim to create a diagram of the flow
 ## Resources
 
 - A tool like [Postman](https://www.getpostman.com/) to manually test your API
+
+## Deploy
+
+Check out the `heroku` branch to see the minor updates in the codebases to deploy the apps.
+* The api is deployed at `https://makers-test-api.herokuapp.com/` (only available route is `/api/messages`)
+* The frontend is deployed at `https://makers-test-frontend.herokuapp.com/`
